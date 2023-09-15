@@ -59,14 +59,13 @@
             </div>
         </div>
     </div>
-
     <!-- Popup for Donation -->
         <div id="donate-popup" class="donate-popup">
             <div class="donate-content">
                 <span class="close" onclick="closePopup()">&times;</span>
                 <h2>Ondersteun de PVV</h2>
                 <p>Steun ons werk door een donatie te doen.</p>
-                <button onclick="redirectToDonate()">Doneren</button>
+                <button onclick="redirectToDonate()">Donaties</button>
             </div>
         </div>
         <script>
